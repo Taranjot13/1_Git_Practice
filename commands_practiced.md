@@ -1,4 +1,4 @@
-# Git Practice – 11 June 2025
+# Git Practice 
 
 ## Commands Practiced
 - git --version
